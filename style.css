@@ -1,0 +1,78 @@
+body,html{
+    height: 100%;
+    font-size: 20px;
+    margin: 0px;
+    color: white;
+    font-family: cursive;
+}
+.pic-image1{
+    background-image: url(image1.png);
+    height: 100%;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bac-img{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+.img-text{
+    background-color: grey;
+    padding: 20px 40px;
+    border-radius: 25px;
+}
+.pic-image2{
+    background-image: url(image2.png);
+    height: 100%;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pic-image3{
+    background-image: url(image3.png);
+    height: 100%;
+    align-items: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.pimg{
+    background-color: grey;
+    color: black;
+    margin: -24px 1px;
+    align-items: center;
+    padding: 0% 2%;
+}
+.ptext{
+    bottom: -15px;
+    text-align: center;
+    background-color: rgb(177, 208, 21);
+    border-radius: 25px;
+    margin: 0px auto;
+    width: 180px;
+    padding: 7px 3px 9px;
+    position: relative;
+    top: 18%;
+}
+.section{
+    background-color: cornflowerblue;
+}
+.section-light{
+    background-color: azure;
+    color: darkgreen;
+}
+.section-dark{
+    background-color: greenyellow;
+    color: green;
+}
